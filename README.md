@@ -3,7 +3,7 @@
 
 2、然后使用下面安装命令：
 
-wget https://raw.githubusercontent.com/HugeName/BT5.9Crack/master/btpanel5.9.sh && chmod 755 btpanel5.9.sh && bash btpanel5.9.sh
+wget https://raw.githubusercontent.com/2lifetop/BT5.9Crack/master/btpanel5.9.sh && chmod 755 btpanel5.9.sh && bash btpanel5.9.sh
 
 —————————————————————————————————————————
 —————————————————————————————————————————
